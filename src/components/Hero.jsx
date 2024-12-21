@@ -6,8 +6,8 @@ const Hero = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center">
           <h1 className="text-4xl tracking-tight font-extrabold text-white sm:text-5xl md:text-6xl">
-            <span className="block">Revolutionising</span>
-            <span className="block text-blue-200">AI Ethics</span>
+            <span className="block">Revolutionizing</span>
+            <span className="block text-blue-200">AI Compliance & Ethics</span>
           </h1>
           <p className="mt-3 max-w-md mx-auto text-base text-blue-100 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
             Build trust in your systems with Veril AI's innovative platform for auditing, certifying, and monitoring AI systems to ensure fairness, transparency, and compliance.
@@ -18,7 +18,7 @@ const Hero = () => {
                 href="#features"
                 className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-blue-700 bg-white hover:bg-blue-50 md:py-4 md:text-lg md:px-10"
               >
-                Discover More
+                Request A Demo
               </a>
             </div>
           </div>

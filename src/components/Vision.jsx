@@ -1,4 +1,5 @@
 import React from 'react';
+import { Shield, Rocket, Heart } from 'lucide-react';
 
 const Vision = () => {
   return (
@@ -14,17 +15,26 @@ const Vision = () => {
             </p>
           </div>
         </div>
-        
+
         <div className="mt-12 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
           <div className="bg-blue-50 p-6 rounded-lg">
+            <div className="text-blue-600 mb-4">
+              <Shield size={32} />
+            </div>
             <h3 className="text-lg font-semibold text-blue-800 mb-3">Trust</h3>
             <p className="text-gray-600">Building trust through transparent AI systems and ethical practices.</p>
           </div>
           <div className="bg-blue-50 p-6 rounded-lg">
+            <div className="text-blue-600 mb-4">
+              <Rocket size={32} />
+            </div>
             <h3 className="text-lg font-semibold text-blue-800 mb-3">Innovation</h3>
-            <p className="text-gray-600">Driving innovation while maintaining the highest ethical standards.</p>
+            <p className="text-gray-600">Driving innovation while maintaining the highest compliance and ethical standards.</p>
           </div>
           <div className="bg-blue-50 p-6 rounded-lg">
+            <div className="text-blue-600 mb-4">
+              <Heart size={32} />
+            </div>
             <h3 className="text-lg font-semibold text-blue-800 mb-3">Impact</h3>
             <p className="text-gray-600">Creating positive impact through responsible AI deployment.</p>
           </div>
