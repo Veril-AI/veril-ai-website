@@ -20,7 +20,7 @@ const Features = () => {
     },
     {
       name: 'Custom Dashboards',
-      description: 'Industry-specific dashboards tailored for finance, healthcare, HR, and more.',
+      description: 'Industry-specific dashboards.',
       icon: Layout,
     },
   ];
