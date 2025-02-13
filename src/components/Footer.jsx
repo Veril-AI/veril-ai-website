@@ -1,6 +1,6 @@
 import React from 'react';
 import { Mail, Linkedin, XIcon, Facebook } from 'lucide-react';
-
+import { Link } from 'react-router-dom';
 const Footer = () => {
   return (
     <footer id="contact" className="bg-gray-900 text-white">
@@ -29,10 +29,11 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Quick Links</h3>
             <ul className="space-y-2">
-              <li><a to="/home" className="text-gray-300 hover:text-white">Home</a></li>
-              <li><a to="/vision" className="text-gray-300 hover:text-white">Vision</a></li>
-              <li><a to="/features" className="text-gray-300 hover:text-white">Features</a></li>
-              <li><a to="/pricing" className="text-gray-300 hover:text-white">Pricing</a></li>
+              <li><Link to="/home" className="text-gray-300 hover:text-white">Home</Link></li>
+              <li><Link to="/vision" className="text-gray-300 hover:text-white">Vision</Link></li>
+              <li><Link to="/features" className="text-gray-300 hover:text-white">Features</Link></li>
+              <li><Link to="/pricing" className="text-gray-300 hover:text-white">Pricing</Link></li>
+              <li><Link to="/contact" className="text-gray-300 hover:text-white">Contact</Link></li>
             </ul>
           </div>
 
