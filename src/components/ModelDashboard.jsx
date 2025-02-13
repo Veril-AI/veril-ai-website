@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Upload, AlertCircle, CheckCircle, Loader, FileText, Brain, Settings, X, Shield } from 'lucide-react';
+import { Link } from 'react-router-dom';
 
 const ModelDashboard = () => {
   const [activeModel, setActiveModel] = useState(null);

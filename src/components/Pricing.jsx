@@ -1,5 +1,6 @@
 import React from 'react';
 import { Check } from 'lucide-react';
+import { Link } from 'react-router-dom';
 
 const Pricing = () => {
   const plans = [
@@ -94,8 +95,8 @@ const Pricing = () => {
                   ))}
                 </ul>
                 <div className="mt-8">
-                  <a
-                    href="/contact"
+                  <Link
+                    to="/contact"
                     className={`block w-full px-6 py-3 text-center font-medium rounded-md ${
                       plan.featured
                         ? 'bg-blue-600 text-white hover:bg-blue-700'
@@ -103,7 +104,7 @@ const Pricing = () => {
                     }`}
                   >
                     {plan.name === 'Enterprise Plan' ? 'Get Started' : 'Get started'}
-                  </a>
+                  </Link>
                 </div>
               </div>
             </div>

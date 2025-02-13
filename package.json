@@ -2,7 +2,7 @@
   "name": "veril-ai-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://veril-ai.github.io",
+  "homepage": "https://veril-ai.github.io/veril-ai-webiste",
   "dependencies": {
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.1.0",
