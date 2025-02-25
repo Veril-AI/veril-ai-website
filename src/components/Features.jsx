@@ -1,5 +1,5 @@
 import React from 'react';
-import { Shield, BarChart2, Award, Layout } from 'lucide-react';
+import { Shield, BarChart2, Award, Code } from 'lucide-react';
 
 const Features = () => {
   const features = [
@@ -19,9 +19,9 @@ const Features = () => {
       icon: Award,
     },
     {
-      name: 'Custom Dashboards',
-      description: 'Industry-specific dashboards.',
-      icon: Layout,
+      name: 'API Integration',
+      description: 'Seamlessly integrate with existing workflows through our robust developer API.',
+      icon: Code,
     },
   ];
 
