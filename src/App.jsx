@@ -8,6 +8,7 @@ import Pricing from './components/Pricing';
 import Footer from './components/Footer';
 import Contact from './components/Contact';
 import ModelDashboard from './components/ModelDashboard';
+import PartnersAndMentions from './components/PartnersAndMentions';
 
 // Create a Home component that combines the components for the landing page
 const Home = () => {
@@ -17,6 +18,7 @@ const Home = () => {
       <Vision />
       <Features />
       <Pricing />
+      <PartnersAndMentions />
     </>
   );
 };
