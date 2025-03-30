@@ -15,12 +15,6 @@ const PartnersAndMentions = () => {
 
       <div className="mt-12 flex justify-center">
         <div className="flex flex-col items-center">
-          {/* <img
-            src="/assets/ibm-logo.jpg"
-            alt="IBM For Startups Program"
-            className="h-16 object-contain"
-          /> */}
-          {/* <img src="/assets/ibm-logo.jpg" alt="IBM For Startups Program" className="h-16 object-contain" /> */}
           <img src={ibmLogo} alt="IBM For Startups Program" className="h-16 object-contain" />
           <p className="mt-4 text-lg font-medium text-blue-600">
             IBM For Startups Program
