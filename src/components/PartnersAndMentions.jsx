@@ -14,17 +14,20 @@ const PartnersAndMentions = () => {
         </p>
       </div>
 
-      <div className="mt-12 flex justify-center space-x-24 flex-wrap">
+      {/* Responsive layout */}
+      <div className="mt-12 flex flex-col items-center space-y-12 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-24">
+        {/* IBM */}
         <div className="flex flex-col items-center">
           <img src={ibmLogo} alt="IBM For Startups Program" className="h-16 object-contain" />
-          <p className="mt-4 text-lg font-medium text-blue-600">
-            IBM For Startups Program
+          <p className="mt-4 text-lg font-medium text-blue-600 text-center">
+            IBM For Startups
           </p>
         </div>
 
+        {/* Microsoft */}
         <div className="flex flex-col items-center">
           <img src={microsoftLogo} alt="Microsoft For Startups" className="h-16 object-contain" />
-          <p className="mt-4 text-lg font-medium text-blue-600">
+          <p className="mt-4 text-lg font-medium text-blue-600 text-center">
             Microsoft For Startups
           </p>
         </div>
