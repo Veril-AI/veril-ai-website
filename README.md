@@ -1,1 +1,1 @@
-# veril-ai-website
+# kwamenyantakyi.com
