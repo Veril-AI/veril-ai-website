@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.093aa01e.css",
+    "main.js": "/static/js/main.52392531.js",
+    "static/js/488.e648eeef.chunk.js": "/static/js/488.e648eeef.chunk.js",
+    "static/media/kwame-fiverr-pic-1.jpg": "/static/media/kwame-fiverr-pic-1.5fb0623fe896fef2bb32.jpg",
+    "static/media/kwame-fiverr-pic-2.jpg": "/static/media/kwame-fiverr-pic-2.feb7127b3f6a36176221.jpg",
+    "static/media/kwame-fiverr-pic-main.jpg": "/static/media/kwame-fiverr-pic-main.f0c17cec1a2fadafd3cf.jpg",
+    "static/media/kwame-fiverr-pic-3.jpg": "/static/media/kwame-fiverr-pic-3.b22611af5778de8fc438.jpg",
+    "static/media/kwame-ondg-founder-pic.jpg": "/static/media/kwame-ondg-founder-pic.782639de1e8631749670.jpg",
+    "static/media/instagram-logo.png": "/static/media/instagram-logo.05fc4a80df32e796a401.png",
+    "static/media/odourium.png": "/static/media/odourium.ed439a29fabec6750aa1.png",
+    "static/media/ecommerce-icon.png": "/static/media/ecommerce-icon.18a8a2ac979042692d3a.png",
+    "static/media/nhs-logo-880x4951.jpeg": "/static/media/nhs-logo-880x4951.0f9b6efafd4cf1811553.jpeg",
+    "static/media/before-it-blows-logo.png": "/static/media/before-it-blows-logo.5f3507671f5d06ef7ee8.png",
+    "static/media/ondg-logo.jpg": "/static/media/ondg-logo.0f09cdcd7506f3f66aef.jpg",
+    "static/media/MidlandsTv-logo.png": "/static/media/MidlandsTv-logo.1fb01e7b979b7007278d.png",
+    "static/media/deloitteLogo.png": "/static/media/deloitteLogo.fb1f75c0b058e5ba24fa.png",
+    "static/media/Fiverr_logo.png": "/static/media/Fiverr_logo.802cef068fcda21885a3.png",
+    "index.html": "/index.html",
+    "main.093aa01e.css.map": "/static/css/main.093aa01e.css.map",
+    "main.52392531.js.map": "/static/js/main.52392531.js.map",
+    "488.e648eeef.chunk.js.map": "/static/js/488.e648eeef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.093aa01e.css",
+    "static/js/main.52392531.js"
+  ]
+}
